@@ -1,0 +1,30 @@
+CAREERINTEL - START HERE
+========================
+
+WINDOWS / VS CODE
+1. Extract this ZIP.
+2. In VS Code, File > Open Folder, choose the extracted folder containing:
+   requirements.txt, app\, static\, samples\, run.bat
+3. Open Terminal > New Terminal.
+4. Run: .\run.bat
+5. Keep the terminal open. Visit http://127.0.0.1:8000
+6. API docs: http://127.0.0.1:8000/docs
+7. Stop the server with Ctrl+C.
+
+IMPORTANT
+Do not open the parent folder if the project is nested inside another folder.
+The terminal must be in the directory where requirements.txt and app\main.py exist.
+Check with: Test-Path requirements.txt; Test-Path app\main.py
+Both should print True.
+
+TESTS
+.venv\Scripts\python.exe -m pytest -q
+
+DEFAULT CONFIGURATION
+LLM_PROVIDER=none (offline; no API key needed)
+SQLite database: careerintel.db
+Maximum upload: 10 MB
+
+NOTES
+This ZIP includes the working local-first baseline and documents which advanced
+optional integrations are not enabled in the baseline. See README.md for details.

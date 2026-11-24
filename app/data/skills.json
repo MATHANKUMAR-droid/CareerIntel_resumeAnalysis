@@ -1,0 +1,1718 @@
+[
+  {
+    "canonical_name": "Python",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Java",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "JavaScript",
+    "aliases": [
+      "JS"
+    ],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "TypeScript",
+    "aliases": [
+      "TS"
+    ],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "C",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "C++",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "C#",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Go",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Rust",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Ruby",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "PHP",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Swift",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Kotlin",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Scala",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "R",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "MATLAB",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Bash",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "PowerShell",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Perl",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Dart",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Objective-C",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Assembly",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "SQL",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "HTML",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "CSS",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "XML",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "JSON",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "GraphQL",
+    "aliases": [],
+    "category": "programming",
+    "relations": []
+  },
+  {
+    "canonical_name": "Machine",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Learning",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Deep",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Learning",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "PyTorch",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": [
+      {
+        "type": "is_a",
+        "target": "Deep Learning"
+      },
+      {
+        "type": "related_to",
+        "target": "TensorFlow"
+      }
+    ]
+  },
+  {
+    "canonical_name": "TensorFlow",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Keras",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "scikit-learn",
+    "aliases": [
+      "sklearn"
+    ],
+    "category": "ml_ai",
+    "relations": [
+      {
+        "type": "implies",
+        "target": "Machine Learning"
+      }
+    ]
+  },
+  {
+    "canonical_name": "XGBoost",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "LightGBM",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "CatBoost",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "BERT",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": [
+      {
+        "type": "implies",
+        "target": "NLP"
+      },
+      {
+        "type": "implies",
+        "target": "Deep Learning"
+      }
+    ]
+  },
+  {
+    "canonical_name": "Transformers",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Hugging",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Face",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Computer",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Vision",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Generative",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "AI",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "LLM",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "RAG",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "NLP",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Natural",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Language",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Processing",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "spaCy",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "NLTK",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "OpenCV",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "YOLO",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "CNN",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "RNN",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "LSTM",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "GAN",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Reinforcement",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Learning",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "MLOps",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Model",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Evaluation",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Feature",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Engineering",
+    "aliases": [],
+    "category": "ml_ai",
+    "relations": []
+  },
+  {
+    "canonical_name": "Pandas",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "NumPy",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "SciPy",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Matplotlib",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Seaborn",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Plotly",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Tableau",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Power",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "BI",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Excel",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Looker",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Apache",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Spark",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "PySpark",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Hadoop",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Kafka",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Airflow",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "dbt",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Snowflake",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "BigQuery",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Redshift",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Databricks",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "PostgreSQL",
+    "aliases": [
+      "Postgres"
+    ],
+    "category": "data",
+    "relations": [
+      {
+        "type": "implies",
+        "target": "SQL"
+      }
+    ]
+  },
+  {
+    "canonical_name": "MySQL",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "MongoDB",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Redis",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Elasticsearch",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "ETL",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Data",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Warehousing",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Data",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Modeling",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Statistics",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "A/B",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Testing",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Time",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Series",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "Analysis",
+    "aliases": [],
+    "category": "data",
+    "relations": []
+  },
+  {
+    "canonical_name": "AWS",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "AWS",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "SageMaker",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Azure",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Google",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Cloud",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "GCP",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Docker",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Kubernetes",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Terraform",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Ansible",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Jenkins",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "GitHub",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Actions",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "GitLab",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "CI/CD",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Linux",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Unix",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Git",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "CI/CD",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Prometheus",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Grafana",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Helm",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "ArgoCD",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Serverless",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Lambda",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "EC2",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "S3",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "CloudFormation",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "OpenShift",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Nginx",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "Apache",
+    "aliases": [],
+    "category": "cloud_devops",
+    "relations": []
+  },
+  {
+    "canonical_name": "React",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Angular",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Vue",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Node.js",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Express",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "FastAPI",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Flask",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Django",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Spring",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Boot",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "ASP.NET",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "REST",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "API",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Microservices",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Next.js",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Svelte",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Tailwind",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Bootstrap",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "WebSockets",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "OAuth",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "JWT",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "HTML5",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "CSS3",
+    "aliases": [],
+    "category": "web",
+    "relations": []
+  },
+  {
+    "canonical_name": "Leadership",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Team",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Leadership",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Project",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Management",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Agile",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Scrum",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Communication",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Collaboration",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Stakeholder",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Management",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Mentoring",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Problem",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Solving",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Critical",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Thinking",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Ownership",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Adaptability",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Time",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Management",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Technical",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Writing",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Presentation",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Negotiation",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Conflict",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Resolution",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Product",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Management",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Strategic",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Planning",
+    "aliases": [],
+    "category": "soft_leadership",
+    "relations": []
+  },
+  {
+    "canonical_name": "Deep Learning",
+    "aliases": [],
+    "category": "concept",
+    "relations": []
+  },
+  {
+    "canonical_name": "Machine Learning",
+    "aliases": [],
+    "category": "concept",
+    "relations": []
+  },
+  {
+    "canonical_name": "Clojure",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Elixir",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Haskell",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Julia",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Fortran",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Groovy",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "F#",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Solidity",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "VHDL",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Verilog",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Jupyter",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Notebook",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Colab",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "MLflow",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "DVC",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Weights",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Biases",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "ONNX",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "TensorRT",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Datasets",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "LangChain",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "LlamaIndex",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Vector",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Databases",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "FAISS",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Pinecone",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Weaviate",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Milvus",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Chroma",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "OpenAI",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Anthropic",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Prompt",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Fine",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Tuning",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Quantization",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Serving",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Batch",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Governance",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Quality",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Catalog",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Flink",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Beam",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Delta",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Lake",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Iceberg",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Trino",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Presto",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Oracle",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Database",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Server",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "MariaDB",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "DynamoDB",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Cassandra",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Neo4j",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Firebase",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Supabase",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Apollo",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Redux",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Zustand",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Vite",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Webpack",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Jest",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Pytest",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Selenium",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Playwright",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Cypress",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Bitbucket",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Jira",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Confluence",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Figma",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "UX",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Design",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "UI",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Accessibility",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Responsive",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "SRE",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Observability",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Networking",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "TCP/IP",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "DNS",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "OAuth2",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "SAML",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "IAM",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "VPC",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "CloudWatch",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "ML",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  },
+  {
+    "canonical_name": "Vertex",
+    "aliases": [],
+    "category": "extended",
+    "relations": []
+  }
+]

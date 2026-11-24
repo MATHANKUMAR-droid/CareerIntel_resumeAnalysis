@@ -1,0 +1,8 @@
+# Optional semantic/NLP stack; install only where wheels support your Python version.
+spacy>=3.7
+scikit-learn>=1.5
+numpy>=1.26
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+keybert>=0.8
+shap>=0.46

@@ -1,0 +1,3 @@
+from typing import Protocol
+class Provider(Protocol):
+ def extract_json(self,prompt:str,schema:dict)->dict:...
